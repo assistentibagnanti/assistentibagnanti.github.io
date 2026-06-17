@@ -1,0 +1,46 @@
+name: "💡 Proponi un contenuto"
+description: "Suggerisci una nuova pagina, una fonte, una normativa regionale o un approfondimento."
+title: "[Contenuto] "
+labels: ["contenuto"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per il contributo! **Non inserire dati personali tuoi o di terzi.**
+        Per i casi giudiziari usa solo fonti pubbliche.
+  - type: dropdown
+    id: sezione
+    attributes:
+      label: In quale sezione?
+      options:
+        - Guida pratica
+        - Quadro normativo
+        - Giurisprudenza e casi
+        - Modulistica
+        - Risorse / download
+        - Altro / non so
+    validations:
+      required: true
+  - type: textarea
+    id: contenuto
+    attributes:
+      label: Cosa proponi di aggiungere o migliorare?
+      description: Descrivi il contenuto. Se hai un testo già pronto, incollalo pure.
+    validations:
+      required: true
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Indica la fonte (legge, articolo, sentenza, link). È fondamentale per la pubblicazione.
+    validations:
+      required: true
+  - type: checkboxes
+    id: conferme
+    attributes:
+      label: Conferme
+      options:
+        - label: "Non ho inserito dati personali di terzi (nomi, aziende identificabili, ecc.)."
+          required: true
+        - label: "Accetto che il contributo sia pubblicato con licenza CC BY-SA 4.0."
+          required: true

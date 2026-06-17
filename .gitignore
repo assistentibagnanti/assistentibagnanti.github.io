@@ -1,0 +1,25 @@
+# Output della build del sito
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Materiale di lavoro / sorgenti personali — NON pubblicare
+# (contengono riferimenti a un caso personale: restano in locale come spunto)
+per_noi.md
+SOLO PER NOI BAGNINI - perche dobbiamo agire.pdf
+CLAUDE.md
+/quadro normativo di riferimento/
+/FIN/
+Decreto-29-maggio-2024-n.-85-Assistenti-Bagnanti_2.pdf
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

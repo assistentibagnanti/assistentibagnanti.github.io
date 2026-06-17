@@ -1,0 +1,19 @@
+name: "🐞 Correggi un errore"
+description: "Segnala un errore, un refuso, un link rotto o un'informazione non aggiornata."
+title: "[Correzione] "
+labels: ["correzione"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Pagina interessata
+      description: Titolo o URL della pagina con l'errore.
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qual è il problema?
+      description: Descrivi l'errore e, se puoi, la correzione corretta (con fonte se è un dato normativo).
+    validations:
+      required: true

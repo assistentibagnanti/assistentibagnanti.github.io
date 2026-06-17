@@ -1,0 +1,31 @@
+/* Stili aggiuntivi per il sito Assistenti Bagnanti */
+
+/* Card della home */
+.ab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.ab-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  padding: 1rem 1.2rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.ab-card:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0.4rem var(--md-default-fg-color--lightest);
+}
+
+.ab-card h3 {
+  margin-top: 0.2rem;
+}
+
+/* Evidenzia i campi da compilare nei template */
+.placeholder,
+code:has(+ em) {
+  background-color: var(--md-code-bg-color);
+}

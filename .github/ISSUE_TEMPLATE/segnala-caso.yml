@@ -1,0 +1,43 @@
+name: "⚖️ Segnala un caso o una sentenza"
+description: "Segnala una sentenza o un caso (da fonti pubbliche) utile per la sezione Giurisprudenza."
+title: "[Caso] "
+labels: ["giurisprudenza"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Usa **solo fonti pubbliche**. Per i procedimenti in corso vale la presunzione di innocenza.
+        **Non** riportare dati personali di privati.
+  - type: input
+    id: estremi
+    attributes:
+      label: Estremi del caso/sentenza
+      description: "Es. Cass. Pen. Sez. IV n. 24165/2013; oppure Tribunale di __, data."
+    validations:
+      required: true
+  - type: textarea
+    id: fatti
+    attributes:
+      label: Fatti e decisione (in sintesi)
+      description: Cosa è successo e come si è deciso. In forma anonima/generalizzata.
+    validations:
+      required: true
+  - type: textarea
+    id: lezione
+    attributes:
+      label: Lezione per l'AB
+      description: Cosa può imparare un Assistente Bagnanti da questo caso?
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte / link
+      description: Link alla sentenza o all'articolo di una testata affidabile.
+    validations:
+      required: true
+  - type: checkboxes
+    id: conferme
+    attributes:
+      label: Conferme
+      options:
+        - label: "La fonte è pubblica e non ho aggiunto dati personali di privati."
+          required: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ✉️ Contatto via email (non serve GitHub)
+    url: mailto:assistentibagnanti@proton.me
+    about: "Se non vuoi usare GitHub, scrivici via email allegando materiale e fonte."
+  - name: 📖 Come contribuire
+    url: https://assistentibagnanti.github.io/contribuisci/
+    about: "Guida ai contributi, anche per chi non è tecnico."

@@ -1,0 +1,126 @@
+site_name: Assistenti Bagnanti
+site_description: >-
+  Informazione, quadro normativo, giurisprudenza e modulistica per gli Assistenti
+  Bagnanti in Italia. Conoscere il proprio ruolo, le proprie responsabilità e come tutelarsi.
+site_author: Progetto Assistenti Bagnanti
+site_url: https://assistentibagnanti.github.io/
+
+# Repo dell'organizzazione GitHub dedicata
+repo_url: https://github.com/assistentibagnanti/assistentibagnanti.github.io
+repo_name: assistentibagnanti
+edit_uri: edit/main/docs/
+
+copyright: >-
+  Contenuti rilasciati con licenza
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" target="_blank" rel="noopener">CC BY-SA 4.0</a> —
+  Materiale informativo, <strong>non costituisce consulenza legale</strong>.
+
+theme:
+  name: material
+  language: it
+  font:
+    text: Inter
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/lifebuoy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Passa al tema scuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Passa al tema chiaro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+    - content.tooltips
+
+plugins:
+  - search:
+      lang: it
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: In questa pagina
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/assistentibagnanti
+      name: Il progetto su GitHub
+  generator: false
+
+nav:
+  - Home: index.md
+  - Guida pratica:
+      - guida-pratica/index.md
+      - Il bagnino è "garante": guida-pratica/il-bagnino-garante.md
+      - L'ordine del datore non protegge: guida-pratica/ordine-del-datore.md
+      - La sorveglianza dev'essere continua: guida-pratica/sorveglianza-continua.md
+      - Cosa rischi davvero: guida-pratica/cosa-rischi.md
+      - Come proteggerti (il paracadute): guida-pratica/come-proteggerti.md
+  - Quadro normativo:
+      - quadro-normativo/index.md
+      - Decreto 85/2024: quadro-normativo/decreto-85-2024.md
+      - D.M. 18 marzo 1996: quadro-normativo/dm-18-marzo-1996.md
+      - Accordo Stato-Regioni 2003: quadro-normativo/accordo-stato-regioni.md
+      - Codice penale (articoli chiave): quadro-normativo/codice-penale.md
+      - D.Lgs. 81/2008 (sicurezza sul lavoro): quadro-normativo/dlgs-81-2008.md
+  - Giurisprudenza e casi:
+      - giurisprudenza/index.md
+      - Cassazione 24165/2013: giurisprudenza/cassazione-24165-2013.md
+      - Pietrasanta 2019 (Trib. Lucca 2024): giurisprudenza/pietrasanta-2019.md
+      - Marsciano 2024: giurisprudenza/marsciano-2024.md
+      - Manfredonia 2010 (Giudice di Pace): giurisprudenza/manfredonia-2010.md
+      - Udine 2017: giurisprudenza/udine-2017.md
+  - Modulistica:
+      - modulistica/index.md
+      - Registro di turno: modulistica/registro-di-turno.md
+      - Contestazione del mansionario: modulistica/contestazione-job-description.md
+      - Segnalazione criticità sicurezza: modulistica/segnalazione-criticita-sicurezza.md
+      - Lettera / PEC al datore: modulistica/lettera-pec-datore.md
+      - Richiesta documenti (DVR, ecc.): modulistica/richiesta-documenti.md
+  - Risorse: risorse/index.md
+  - Contribuisci: contribuisci.md
+  - Disclaimer: disclaimer.md

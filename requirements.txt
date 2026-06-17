@@ -1,0 +1,5 @@
+# Dipendenze per costruire il sito (MkDocs + tema Material)
+# Installa con:  pip install -r requirements.txt
+# Anteprima:     mkdocs serve
+# Build:         mkdocs build --strict
+mkdocs-material>=9.5,<10
