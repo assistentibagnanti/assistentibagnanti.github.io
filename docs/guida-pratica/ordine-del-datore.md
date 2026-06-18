@@ -37,8 +37,8 @@ una funzione pubblica: o ti rifiuti di obbedire, o paghi tu.»*
 ## E allora cosa fare quando ti chiedono di lasciare la postazione?
 
 !!! tip "Risposta pratica, in turno"
-    Se ti chiedono di andare al front office (o di occuparti d'altro) mentre la vasca è aperta e sei
-    l'unico AB, puoi rispondere con calma e gentilezza:
+    Se ti chiedono di occuparti d'altro (reception/cassa, bar, una commissione…) mentre la vasca è
+    aperta e sei l'unico AB, puoi rispondere con calma e gentilezza:
 
     > «Non posso lasciare la vasca: sono solo e la sorveglianza dev'essere continua. Se ne occupa
     > lei, oppure aspettiamo che arrivi un collega.»

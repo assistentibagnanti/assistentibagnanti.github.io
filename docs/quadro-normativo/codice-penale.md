@@ -23,8 +23,8 @@ se non lo fa, per la legge è come se li avesse causati. → [Il bagnino è «ga
 > ordine legittimo della pubblica Autorità esclude la punibilità. (…)
 > Risponde del reato chi ha eseguito l'ordine, salvo i casi di ordine vincolante non sindacabile.
 
-**Per l'AB:** un ordine **illegittimo** (ad esempio: «lascia la vasca e vai al front office» mentre la
-vasca è aperta) **non scrimina**. Eseguirlo non ti mette al riparo.
+**Per l'AB:** un ordine **illegittimo** (ad esempio: «lascia la vasca e va' a occuparti d'altro» mentre
+la vasca è aperta) **non scrimina**. Eseguirlo non ti mette al riparo.
 → [L'ordine del datore non protegge](../guida-pratica/ordine-del-datore.md)
 
 ## Art. 359 — Esercenti un servizio di pubblica necessità {#art-359}

@@ -7,7 +7,7 @@ d'accordo».
 ## Quando usarlo
 
 Quando il tuo mansionario (o ordine di servizio) ti assegna compiti che ti allontanano dalla
-postazione mentre la vasca è aperta: front office, accessi, cassa, bar, biancheria, pulizie, ecc.
+postazione mentre la vasca è aperta: reception/cassa, accoglienza, gestione accessi, bar, spogliatoi, pulizie, ecc.
 
 ## Come usarlo
 
@@ -34,7 +34,7 @@ CONTESTO
 
 il mansionario / ordine di servizio del [DATA], che mi assegna — durante l'orario di
 apertura al pubblico della/e vasca/he — le seguenti mansioni: [ELENCARE: es. presidio
-front office, registrazione ospiti, cassa, somministrazione, ecc.].
+reception/cassa, accoglienza, gestione accessi, bar, pulizie, ecc.].
 
 Tali mansioni sono INCOMPATIBILI con l'obbligo di sorveglianza continua dei bagnanti,
 in quanto comportano il mio allontanamento dalla postazione e/o la distrazione dalla

@@ -13,7 +13,7 @@ ancora successo niente** e anche se non hai ancora inviato nessuna lettera.
 → [Modello: Registro di turno](../modulistica/registro-di-turno.md)
 
 ### 2. Non muoverti dalla postazione
-Se ti chiedono di andare al front office o di fare altro mentre la vasca è aperta e sei solo,
+Se ti chiedono di occuparti d'altro mentre la vasca è aperta e sei solo,
 rispondi con calma che non puoi lasciare la sorveglianza, e **annotalo**. La legge ti tutela
 ([art. 20 D.Lgs. 81/2008](../quadro-normativo/dlgs-81-2008.md)).
 → [Perché l'ordine non protegge](ordine-del-datore.md)

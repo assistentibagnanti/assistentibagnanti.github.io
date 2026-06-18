@@ -19,9 +19,9 @@ ciechi** non visibili da un'unica postazione.
 La sorveglianza è efficace solo se l'AB è **in postazione** e **dedicato a quello**. Un AB che, mentre
 la vasca è aperta:
 
-- registra gli ospiti al front office,
-- gestisce accessi, cassa o addebiti,
-- si occupa di food & beverage, biancheria o pulizie,
+- si occupa della reception/cassa o dell'accoglienza,
+- gestisce accessi o pagamenti,
+- si occupa del bar, degli spogliatoi o delle pulizie,
 
 **non sta sorvegliando**. Per la legge equivale, di fatto, a **non avere un AB**. È la situazione che ha
 portato a condanne in casi reali → vedi [Udine 2017](../giurisprudenza/udine-2017.md) e

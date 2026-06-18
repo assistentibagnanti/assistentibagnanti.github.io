@@ -42,7 +42,7 @@ PREMESSO CHE
 
 RILEVO/RILEVIAMO CHE
 [descrizione sintetica e fattuale della situazione: es. "nelle fasce __:__-__:__ è
-presente un solo AB per __ vasche, con presidio anche del front office", ecc.]
+presente un solo AB per __ vasche, con presidio anche della reception/cassa", ecc.]
 
 CHIEDO/CHIEDIAMO
 1. l'adeguamento dell'organizzazione affinché sia garantita la sorveglianza continua
