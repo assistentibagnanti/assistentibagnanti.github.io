@@ -3,7 +3,7 @@
 **L'ordine del datore non è uno scudo: né in sede penale, né per le sanzioni amministrative.**
 
 - **Fatto / decisione:** Giudice di Pace di Manfredonia (FG), 2010
-- *Caso riportato a fini didattici per il principio affermato.*
+- *Caso riportato a fini didattici. Le decisioni dei Giudici di Pace non sono in genere pubblicate: ne riportiamo il **principio**, peraltro coerente con la giurisprudenza superiore.*
 
 ## I fatti (in sintesi)
 
@@ -17,7 +17,7 @@ ordinato di andare via»*.
 
 ## La decisione
 
-Il giudice respinge il ricorso, con un principio chiaro:
+Il giudice respinge il ricorso. In sostanza, il principio è questo:
 
 > «Il fatto che l'ordine venga dal datore di lavoro **non ti salva**. Tu sei garante di una funzione
 > pubblica: o ti rifiuti di obbedire, o paghi tu. La sanzione resta dovuta.»

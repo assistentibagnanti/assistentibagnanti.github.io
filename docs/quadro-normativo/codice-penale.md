@@ -5,8 +5,8 @@ Cinque articoli del codice penale spiegano, da soli, **perché la posizione dell
 
 !!! warning "Testo a scopo informativo"
     I testi qui riportati sono ripresi in forma sintetica per facilitarne la lettura. Per il testo
-    vigente integrale fai sempre riferimento a una fonte ufficiale aggiornata (es. *Normattiva*) o ai
-    PDF nella sezione [Risorse](../risorse/index.md). Questo non è un parere legale.
+    vigente integrale fai sempre riferimento a una fonte ufficiale aggiornata come
+    [*Normattiva*](https://www.normattiva.it/). Questo non è un parere legale.
 
 ## Art. 40 — Rapporto di causalità (la «posizione di garanzia») {#art-40}
 

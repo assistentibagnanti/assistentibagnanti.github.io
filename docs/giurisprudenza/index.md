@@ -18,15 +18,11 @@ possiamo imparare per non trovarci nella stessa situazione.
 | [**Pietrasanta — Trib. Lucca**](pietrasanta-2019.md) | 2019 / 2024 | I ruoli informali («senior», «tutor») possono pesare moltissimo. |
 | [**Marsciano**](marsciano-2024.md) | 2024 | Un allontanamento **«momentaneo»** può bastare. |
 | [**Manfredonia — Giudice di Pace**](manfredonia-2010.md) | 2010 | L'ordine del datore **non** è uno scudo, neppure per le sanzioni. |
-| [**Udine**](udine-2017.md) | 2017 | In piscine aperte al pubblico il servizio AB è **sempre** obbligatorio. |
+| [**Udine — Premariacco**](udine-2017.md) | 2011 / 2017 | In piscine aperte al pubblico il servizio AB è **sempre** obbligatorio. |
 
 ## Il filo conduttore
 
-Tutti questi casi ripetono lo stesso messaggio:
-
-> «Il bagnino deve rispettare il divieto di allontanarsi dalla propria postazione di servizio durante lo
-> svolgimento del proprio turno di lavoro, **anche se il detto ordine proviene dal proprio datore di
-> lavoro**.»
-
-La responsabilità del datore per cattiva organizzazione **concorre**, ma **non sostituisce** quella
-personale dell'AB. → [Il bagnino è «garante»](../guida-pratica/il-bagnino-garante.md)
+Tutti questi casi ripetono lo stesso messaggio: il bagnino non deve allontanarsi dalla propria
+postazione durante il turno, **anche quando l'ordine viene dal datore di lavoro**. La responsabilità
+di chi organizza male il lavoro **concorre**, ma **non sostituisce** quella personale dell'AB.
+→ [Il bagnino è «garante»](../guida-pratica/il-bagnino-garante.md)

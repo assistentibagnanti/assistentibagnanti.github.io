@@ -22,12 +22,11 @@ la legge **condanna te**. Il datore, al massimo, ne risponde **insieme** a te �
 
 ## Lo dice la giurisprudenza, in modo costante
 
-> «Il bagnino deve rispettare il divieto di allontanarsi dalla propria postazione di servizio durante
-> lo svolgimento del proprio turno di lavoro, **anche se il detto ordine proviene dal proprio datore
-> di lavoro**.»
->
-> — Principio costantemente ribadito; cfr. *ex multis* [Cass. Pen. Sez. IV n. 24165/2013](../giurisprudenza/cassazione-24165-2013.md)
-> e [Giudice di Pace di Manfredonia, 2010](../giurisprudenza/manfredonia-2010.md).
+La giurisprudenza è **costante** nel ribadire un principio: il bagnino non deve allontanarsi dalla
+propria postazione durante il turno, **anche quando l'ordine proviene dal datore di lavoro**. O ci si
+rifiuta, o se ne risponde in prima persona. Lo illustrano bene il caso di
+[Manfredonia (2010)](../giurisprudenza/manfredonia-2010.md) e, sul piano della responsabilità
+personale dell'AB, [Cass. n. 24165/2013](../giurisprudenza/cassazione-24165-2013.md).
 
 Il caso di Manfredonia è emblematico: un bagnino lascia la postazione perché glielo ha chiesto il
 datore; viene sanzionato; fa ricorso dicendo «mi avevano ordinato di andare via». Il giudice, in

@@ -2,8 +2,9 @@
 
 **In piscine aperte al pubblico, il servizio di assistenza bagnanti è sempre obbligatorio.**
 
-- **Decisione:** Tribunale di Udine, 14 novembre 2017 — confermata in Appello (Trieste, 2018)
-- *Caso ricostruito da fonti pubbliche.*
+- **Fatto:** piscina di un circolo/associazione a San Mauro di Premariacco (UD), 10 luglio 2011
+- **Sentenza:** Tribunale di Udine, 14 novembre 2017
+- **Fonte:** [ilfriuli.it](https://www.ilfriuli.it/cronaca/tre-condanne-per-la-bimba-annegata-in-piscina-a-premariacco/)
 
 ## I fatti (in sintesi)
 
@@ -13,8 +14,9 @@ Una bambina di sette anni annega nella piscina di un'associazione sportiva priva
 
 ## La decisione
 
-Il giudice ha condannato per **omicidio colposo** i vertici dell'associazione (Presidente,
-Vicepresidente e Segretario). La condanna è stata **confermata in Appello**.
+Il giudice ha condannato per **omicidio colposo** i vertici dell'associazione che gestiva l'impianto
+(Presidente, Vicepresidente e Segretario), con pene detentive sospese e il riconoscimento di un
+risarcimento ai familiari.
 
 ## La lezione per l'AB
 

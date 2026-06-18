@@ -4,7 +4,7 @@
 
 - **Fatto:** stabilimento balneare in Versilia, luglio 2019
 - **Sentenza di primo grado:** Tribunale di Lucca, 12 dicembre 2024
-- *Caso ricostruito da fonti di cronaca pubbliche. Procedimento soggetto a eventuali impugnazioni.*
+- **Fonte:** cronaca locale, es. [luccaindiretta.it](https://www.luccaindiretta.it/cronaca/2024/12/11/bimba-morta-nella-piscina-del-bagno-texas-6-condannati-in-primo-grado/438041). Sentenza di primo grado, soggetta a impugnazione.
 
 ## I fatti (in sintesi)
 

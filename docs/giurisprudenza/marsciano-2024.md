@@ -5,7 +5,7 @@
 - **Fatto:** piscina comunale di Marsciano (PG), 10 agosto 2024
 - **Stato:** procedimento penale (indagini/processo) — *procedimento in corso, vale la presunzione
   di innocenza*
-- *Caso ricostruito da fonti di cronaca pubbliche.*
+- **Fonte:** cronaca locale, es. [umbria24.it](https://www.umbria24.it/cronaca/annega-in-piscina-a-32-anni-comune-e-gestori-a-processo-come-responsabili-civili/)
 
 ## I fatti (in sintesi)
 

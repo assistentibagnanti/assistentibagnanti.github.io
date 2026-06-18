@@ -4,8 +4,8 @@ title: Risorse e download
 
 # Risorse e download
 
-I documenti ufficiali in PDF, raccolti in un unico posto. Sono **fonti pubbliche**: scaricali,
-stampali, condividili con i colleghi.
+Le fonti raccolte in un unico posto: i **testi normativi ufficiali** in PDF (liberamente
+riproducibili) da scaricare e condividere, più i **link** alle fonti esterne (sentenze, materiali FIN).
 
 !!! note
     Le norme possono essere aggiornate. Per il testo **vigente** fai sempre riferimento a una fonte
@@ -22,21 +22,27 @@ stampali, condividili con i colleghi.
 
 ## Codice penale (articoli chiave)
 
-- :material-file-pdf-box: [Art. 40 c.p.](codice-penale-art-40.pdf) — posizione di garanzia
-- :material-file-pdf-box: [Art. 51 c.p.](codice-penale-art-51.pdf) — adempimento di un dovere / ordine
-- :material-file-pdf-box: [Art. 359 c.p.](codice-penale-art-359.pdf) — servizio di pubblica necessità
-- :material-file-pdf-box: [Art. 589 c.p.](codice-penale-art-589.pdf) — omicidio colposo
-- :material-file-pdf-box: [Art. 590 c.p.](codice-penale-art-590.pdf) — lesioni personali colpose
+Il testo degli articoli, spiegato, è nella pagina [Codice penale](../quadro-normativo/codice-penale.md).
+Per il testo vigente integrale: [Normattiva](https://www.normattiva.it/).
+
+- [Art. 40](../quadro-normativo/codice-penale.md#art-40) — posizione di garanzia
+- [Art. 51](../quadro-normativo/codice-penale.md#art-51) — adempimento di un dovere / ordine
+- [Art. 359](../quadro-normativo/codice-penale.md#art-359) — servizio di pubblica necessità
+- [Art. 589](../quadro-normativo/codice-penale.md#art-589) — omicidio colposo
+- [Art. 590](../quadro-normativo/codice-penale.md#art-590) — lesioni personali colpose
 
 ## Giurisprudenza
 
-- :material-file-pdf-box: [**Cassazione Pen. Sez. IV n. 24165/2013**](cassazione-24165-2013.pdf) —
-  sentenza.
+- **Cassazione Pen. Sez. IV n. 24165/2013** — vedi la nostra [scheda del caso](../giurisprudenza/cassazione-24165-2013.md).
+  Sintesi e commento su fonti giuridiche pubbliche (es.
+  [diritto.it](https://www.diritto.it/sentenze/responsabili-educatrice-e-bagnina-dell-annegamento-del-bambino-lasciato-solo-nella-piscina-cass-pen-n-241652013/)).
 
-## Documentazione tecnica / linee guida
+## Documentazione tecnica (Federazione Italiana Nuoto)
 
-- :material-file-pdf-box: [L'assistente bagnanti](l-assistente-bagnanti.pdf)
-- :material-file-pdf-box: [Linee guida sul salvamento](salvamento-linee-guida.pdf)
+Questi materiali sono della **FIN – Sezione Salvamento** e restano sul loro sito ufficiale:
+
+- [Chi è l'Assistente Bagnanti](https://www.federnuoto.it/home/formazione/sezione-salvamento/offerta-formativa-salvamento/assistenti-bagnanti.html) — pagina ufficiale FIN.
+- [Linee guida per Assistenti Bagnanti (emergenza COVID-19)](https://www.federnuoto.it/home/salvamento/news-salvamento/36051-covid-19-le-linee-guida-per-assistenti-bagnanti.html) — FIN Sezione Salvamento.
 
 ---
 

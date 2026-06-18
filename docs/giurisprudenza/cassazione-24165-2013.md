@@ -4,32 +4,33 @@
 
 - **Fatto:** San Gervasio Bresciano (BS), 3 agosto 2007
 - **Sentenza:** Corte di Cassazione, Sezione IV Penale, n. 24165 del 4 giugno 2013
-- **Documento:** [scarica il PDF della sentenza](../risorse/index.md)
+- **Fonte:** sintesi/commento su fonti giuridiche pubbliche, es. [diritto.it](https://www.diritto.it/sentenze/responsabili-educatrice-e-bagnina-dell-annegamento-del-bambino-lasciato-solo-nella-piscina-cass-pen-n-241652013/)
 
 ## I fatti
 
-Un centro ricreativo con **due piscine** (una grande con scivoli, una piccola) era sorvegliato da
-**un'unica assistente bagnanti** per entrambe le vasche. Un bambino di otto anni entra in difficoltà
-nell'area degli scivoli **in modo silenzioso**, semplicemente flottando inerte. Quando se ne
-accorgono è troppo tardi: il bambino morirà alcuni giorni dopo in ospedale.
+In un centro ricreativo con **due piscine** (una grande con scivoli e una piccola), un gruppo di
+bambini era stato accompagnato da alcuni educatori. L'area era sorvegliata da **un'unica assistente
+bagnanti**. Un bambino viene colto da un **malore** mentre è in acqua — un evento **silenzioso**, senza
+grida — e non viene soccorso in tempo: morirà per le conseguenze.
 
 ## La decisione
 
-L'assistente bagnanti viene condannata per **omicidio colposo** in primo grado, in appello e infine
-in Cassazione. La difesa sosteneva che fosse **impossibile** sorvegliare tutto da sola e che l'evento
-fosse stato improvviso e silenzioso. La Cassazione ha risposto, in sostanza:
+Vengono condannati per **omicidio colposo** sia l'**educatrice** che accompagnava il bambino (per
+essersi allontanata, venendo meno alla vigilanza), sia l'**assistente bagnanti**, la cui condanna è
+confermata fino in Cassazione. La difesa dell'AB sosteneva che fosse **impossibile** sorvegliare tutto
+da sola e che il malore fosse stato improvviso e silenzioso.
 
-> «La responsabilità dell'assistente bagnanti **non è esclusa** dal fatto che l'area da sorvegliare
-> fosse oggettivamente troppo grande per una sola persona. La responsabilità del datore di lavoro
-> per cattiva organizzazione **concorre**, ma **non sostituisce** quella personale dell'assistente
-> bagnanti.»
+In sintesi, il principio affermato dalla Corte è che la responsabilità dell'assistente bagnanti **non è
+esclusa** dal fatto che l'area fosse ampia: il suo compito è proprio **prevenire e cogliere sul nascere**
+le situazioni di pericolo — **compresi i malori silenziosi** — posizionandosi in modo da controllare
+l'intera area di competenza.
 
 ## La lezione per l'AB
 
 !!! danger "Da ricordare"
     Il fatto che il lavoro sia organizzato male — più mansioni o troppe vasche su una sola persona —
-    **non è una scusa che ti salva**. Ne risponde il datore, sì, ma ne rispondi **anche tu**, e per
-    primo, perché eri fisicamente lì.
+    **non è una scusa che ti salva**. Ne possono rispondere anche altri (chi organizza, chi
+    accompagna), ma ne rispondi **anche tu**, e per primo, perché eri fisicamente lì.
 
 Cosa fare di conseguenza:
 
