@@ -27,15 +27,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-night
         name: Passa al tema scuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: light blue
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Passa al tema chiaro
@@ -107,6 +107,7 @@ nav:
       - Accordo Stato-Regioni 2003: quadro-normativo/accordo-stato-regioni.md
       - Codice penale (articoli chiave): quadro-normativo/codice-penale.md
       - D.Lgs. 81/2008 (sicurezza sul lavoro): quadro-normativo/dlgs-81-2008.md
+  - Regioni: regioni/index.md
   - Giurisprudenza e casi:
       - giurisprudenza/index.md
       - Cassazione 24165/2013: giurisprudenza/cassazione-24165-2013.md

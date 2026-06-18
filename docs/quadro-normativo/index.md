@@ -18,6 +18,7 @@ l'Assistente Bagnanti in Italia, con i **documenti ufficiali scaricabili**.
 | [**Accordo Stato-Regioni 16/01/2003**](accordo-stato-regioni.md) | Requisiti igienico-sanitari e di sicurezza delle piscine; **presenza continua** degli AB. |
 | [**Codice penale (artt. 40, 51, 359, 589, 590)**](codice-penale.md) | Posizione di garanzia, ordine illegittimo, pubblica necessità, omicidio e lesioni colpose. |
 | [**D.Lgs. 81/2008**](dlgs-81-2008.md) | Sicurezza sul lavoro: obblighi del datore e **obblighi/diritti del lavoratore** (artt. 18, 20, 28). |
+| [**Le Regioni**](../regioni/index.md) | Ogni Regione **recepisce e completa** il quadro nazionale: qui trovi la norma della tua Regione. |
 
 ## Documenti ufficiali (download)
 

@@ -32,5 +32,6 @@ integrato con regolamenti propri: verifica sempre la normativa della tua Regione
 **sorveglianza continua**. → [La sorveglianza dev'essere continua](../guida-pratica/sorveglianza-continua.md)
 
 !!! note "Recepimenti regionali"
-    Stiamo raccogliendo i recepimenti regionali dell'Accordo. Se conosci il regolamento della tua
-    Regione, puoi [contribuire](../contribuisci.md) ad aggiungerlo.
+    L'Accordo diventa applicabile solo quando ogni Regione lo **recepisce** (con legge regionale,
+    regolamento o delibera), potendo aggiungere requisiti. Vedi la sezione
+    [**Regioni**](../regioni/index.md) per trovare la norma della tua Regione.

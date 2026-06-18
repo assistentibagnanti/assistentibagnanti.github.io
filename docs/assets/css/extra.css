@@ -1,5 +1,15 @@
 /* Stili aggiuntivi per il sito Assistenti Bagnanti */
 
+/* Colore "rosso bagnino": rifinisce il rosso del tema su una tonalità da salvataggio */
+[data-md-color-primary="red"] {
+  --md-primary-fg-color:        #d81f2a;
+  --md-primary-fg-color--light: #e34b53;
+  --md-primary-fg-color--dark:  #a3151f;
+}
+[data-md-color-accent="red"] {
+  --md-accent-fg-color: #e0303a;
+}
+
 /* Card della home */
 .ab-grid {
   display: grid;
