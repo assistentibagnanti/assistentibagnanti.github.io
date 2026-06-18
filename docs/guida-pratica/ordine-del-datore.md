@@ -17,7 +17,7 @@ ordini, siano «coperti». **Non lo sono.**
   **non eseguire** di propria iniziativa operazioni che mettano a rischio la sicurezza propria o di
   altri, e di **segnalare** le carenze. Non è solo un diritto rifiutarsi: in certi casi è un **dovere**.
 
-In pratica: se ti viene detto «vai un attimo al front office» e in quei minuti un bagnante va sotto,
+In pratica: se ti viene detto «vai un attimo a fare ...» e in quei minuti un bagnante va sotto,
 la legge **condanna te**. Il datore, al massimo, ne risponde **insieme** a te — non al posto tuo.
 
 ## Lo dice la giurisprudenza, in modo costante
