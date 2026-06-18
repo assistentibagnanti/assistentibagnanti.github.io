@@ -22,7 +22,7 @@ normativa della **tua Regione**.
 
 ## Come trovare la norma della tua Regione
 
-Questo metodo vale **sempre**, anche se la tabella qui sotto non è ancora completa:
+Questo metodo vale **sempre**, ed è il modo più sicuro di arrivare al testo giusto e aggiornato:
 
 - Cerca: **«[nome Regione] regolamento piscine»** oppure **«[nome Regione] recepimento accordo
   Stato-Regioni piscine»**.
@@ -31,44 +31,49 @@ Questo metodo vale **sempre**, anche se la tabella qui sotto non è ancora compl
 - Verifica sempre sulla **fonte ufficiale** (Bollettino Ufficiale Regionale – BUR) che sia la
   versione **vigente**.
 
-## Stato della raccolta (in costruzione)
+## Riferimenti per Regione
 
-Stiamo costruendo questa sezione Regione per Regione. Dove trovi 🔧 *da completare*, puoi
-[contribuire](../contribuisci.md) segnalando il provvedimento e il link ufficiale.
+!!! note "Una precisazione importante"
+    Contrariamente a quel che si potrebbe pensare, **quasi tutte le Regioni hanno un proprio atto
+    di recepimento** (spesso una **delibera di Giunta**, a volte una legge regionale). Non risultano
+    Regioni che applichino *soltanto* il testo nazionale senza alcun atto proprio. Alcuni recepimenti,
+    però, sono **poco reperibili online**: dove leggi *«da verificare»* non siamo ancora riusciti a
+    confermare gli estremi con certezza.
 
-| Regione | Riferimento normativo (se noto) | Stato |
-|---|---|---|
-| Abruzzo | — | 🔧 da completare |
-| Basilicata | — | 🔧 da completare |
-| Calabria | — | 🔧 da completare |
-| Campania | — | 🔧 da completare |
-| Emilia-Romagna | D.G.R. 18 luglio 2005, n. 1092 | ✅ riferimento noto |
-| Friuli-Venezia Giulia | — | 🔧 da completare |
-| Lazio | Regolamento Regionale 1 dicembre 2017, n. 29 | ✅ riferimento noto |
-| Liguria | [Regione Liguria – piscine](https://www.regione.liguria.it/homepage-salute/cosa-cerchi/balneazione/piscine.html) | ✅ pagina ufficiale |
-| Lombardia | D.G.R. 17 maggio 2006, n. 8/2552 | ✅ riferimento noto |
-| Marche | — | 🔧 da completare |
-| Molise | — | 🔧 da completare |
-| Piemonte | [Regione Piemonte – sorveglianza acque piscina](https://www.regione.piemonte.it/web/temi/sanita/prevenzione/normativa-sorveglianza-acque-piscina) | ✅ pagina ufficiale |
-| Puglia | — | 🔧 da completare |
-| Sardegna | — | 🔧 da completare |
-| Sicilia | — | 🔧 da completare |
-| Toscana | — | 🔧 da completare |
-| Trentino-Alto Adige (P.A. Trento) | — | 🔧 da completare |
-| Trentino-Alto Adige (P.A. Bolzano) | — | 🔧 da completare |
-| Umbria | — | 🔧 da completare |
-| Valle d'Aosta | — | 🔧 da completare |
-| Veneto | [Regione Veneto – Accordo 2003 e piscine](https://www.regione.veneto.it/web/sanita/laccordo-stato-regioni-del-16-gennaio-2003) | ✅ pagina ufficiale |
+| Regione | Provvedimento regionale di recepimento (riferimento) |
+|---|---|
+| Abruzzo | *da verificare* |
+| Basilicata | *da verificare* |
+| Calabria | D.G.R. 12 dicembre 2007, n. 770 |
+| Campania | *da verificare* |
+| Emilia-Romagna | D.G.R. 18 luglio 2005, n. 1092 |
+| Friuli-Venezia Giulia | L.R. 9 gennaio 2018, n. 1 |
+| Lazio | Regolamento Regionale 1 dicembre 2017, n. 29 |
+| Liguria | D.G.R. 23 luglio 2014, n. 902 |
+| Lombardia | D.G.R. 17 maggio 2006, n. 8/2552 |
+| Marche | D.G.R. 23 luglio 2012, n. 1136 |
+| Molise | L.R. 21 novembre 2008, n. 33 |
+| Piemonte | D.G.R. n. 119-9199 del 2003 (e successive linee guida/atti) |
+| Puglia | L.R. 15 dicembre 2008, n. 3 |
+| Sardegna | *da verificare* |
+| Sicilia | *da verificare* |
+| Toscana | L.R. 9 marzo 2006, n. 8 |
+| Trentino-Alto Adige — P.A. Trento | Delibera 9 marzo 2007, n. 480 |
+| Trentino-Alto Adige — P.A. Bolzano | Delibera 28 giugno 2004, n. 2360 |
+| Umbria | recepimento regionale del 2007 *(estremi da verificare)* |
+| Valle d'Aosta | *da verificare* (risulta un recepimento dell'intesa) |
+| Veneto | D.G.R. 18 aprile 2003, n. 1173 |
 
 !!! warning "I riferimenti possono essere superati"
-    I provvedimenti regionali vengono **modificati e aggiornati** nel tempo. I numeri qui sopra sono
-    un **punto di partenza**, non la garanzia del testo vigente: verifica sempre sul Bollettino
-    Ufficiale della tua Regione.
+    I provvedimenti regionali vengono **modificati, integrati o sostituiti** nel tempo. I riferimenti
+    qui sopra sono un **punto di partenza**, non la garanzia del testo vigente: prima di usarli,
+    verifica sempre sul **Bollettino Ufficiale** della tua Regione.
 
 ## Fonti utili (NON ufficiali) per partire
 
 Questi siti raccolgono e indicizzano le norme regionali. Sono **comodi come indice**, ma non sono
-fonti ufficiali: usali per *trovare* il provvedimento, poi leggilo sulla fonte regionale.
+fonti ufficiali (e a volte sono incompleti o non aggiornati): usali per *trovare* il provvedimento,
+poi leggilo sulla fonte regionale.
 
 - [Accordo Stato-Regioni 16/01/2003 – Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2003/03/03/03A02358/sg)
 - [Assopiscine – Delibere e Leggi Regionali](https://www.assopiscine.it/norme-e-regolamenti/delibere-e-leggi-regionali/)
@@ -76,4 +81,5 @@ fonti ufficiali: usali per *trovare* il provvedimento, poi leggilo sulla fonte r
 
 ---
 
-Conosci la norma della tua Regione (con link ufficiale)? **[Aiutaci a completarla →](../contribuisci.md)**
+Conosci con certezza il provvedimento della tua Regione (con riferimento ufficiale)?
+**[Aiutaci a completare la tabella →](../contribuisci.md)**
