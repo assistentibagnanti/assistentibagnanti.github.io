@@ -54,28 +54,28 @@ Questo metodo vale **sempre**, ed è il modo più sicuro di arrivare al testo gi
   **Valle d'Aosta**.
 - *da verificare* → atto non ancora confermato da noi.
 
-| Regione | Atto di recepimento | Tipo |
-|---|---|---|
-| Abruzzo | D.G.R. 5 aprile 2004, n. 206 | Delibera |
-| Basilicata | L.R. 9 luglio 2020, n. 19 | Legge regionale |
-| Calabria | D.G.R. 12 dicembre 2007, n. 770 | Delibera |
-| Campania | D.G.R. 20 luglio 2001, n. 3530 e D.G.R. 17 novembre 2004, n. 2088 | Delibera |
-| Emilia-Romagna | D.G.R. 18 luglio 2005, n. 1092 | Delibera |
-| Friuli-Venezia Giulia | L.R. 9 gennaio 2018, n. 1 | Legge regionale |
-| Lazio | Regolamento Regionale 1 dicembre 2017, n. 29 | Regolamento |
-| Liguria | D.G.R. 23 luglio 2014, n. 902 | Delibera |
-| Lombardia | D.G.R. 17 maggio 2006, n. 8/2552 | Delibera *(con requisiti propri sugli AB)* |
-| Marche | D.G.R. 23 luglio 2012, n. 1136 | Delibera |
-| Molise | L.R. 21 novembre 2008, n. 33 | Legge regionale |
-| Piemonte | D.G.R. 28 aprile 2003, n. 119-9199 (+ linee guida) | Delibera |
-| Puglia | L.R. 15 dicembre 2008, n. 35 *(preceduta da D.G.R. 22 giugno 2004, n. 909)* | Legge regionale |
-| Sardegna | D.G.R. 5 febbraio 2019, n. 6/28 *(agg. D.G.R. 4 maggio 2023, n. 17/39)* | Delibera |
-| Sicilia | *Nessun atto regionale proprio*: si applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) |
-| Toscana | L.R. 9 marzo 2006, n. 8 *(+ Reg. D.P.G.R. 23/R/2010)* | Legge regionale |
-| Trentino-Alto Adige — P.A. Trento | Delibera 9 marzo 2007, n. 480 | Delibera |
-| Trentino-Alto Adige — P.A. Bolzano | Delibera 28 giugno 2004, n. 2360 | Delibera |
-| Umbria | L.R. 13 febbraio 2007, n. 4 *(oggi T.U. L.R. 9 aprile 2015, n. 11, Capo III)* + R.R. 1 aprile 2008, n. 2 | Legge regionale |
-| Valle d'Aosta | *Nessun atto regionale proprio*: l'Azienda USL applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) |
+| Regione | Atto di recepimento | Tipo | Link diretto |
+|---|---|---|---|
+| Abruzzo | D.G.R. 5 aprile 2004, n. 206 | Delibera | [scheda ↗](https://ediliziainrete.it/leggi/delib-g-r-05042004-n-206) |
+| Basilicata | L.R. 9 luglio 2020, n. 19 | Legge regionale | [PDF ↗](https://www.assopiscine.it/wp-content/uploads/2020/11/L-BASILICATA.pdf) |
+| Calabria | D.G.R. 12 dicembre 2007, n. 770 | Delibera | [scheda ↗](https://legislazionetecnica.it/38510) |
+| Campania | D.G.R. 20 luglio 2001, n. 3530 e D.G.R. 17 novembre 2004, n. 2088 | Delibera | [Regione (SURAP) ↗](https://surap.regione.campania.it/index.php/normativa.html) |
+| Emilia-Romagna | D.G.R. 18 luglio 2005, n. 1092 | Delibera | [Regione ↗](https://salute.regione.emilia-romagna.it/normativa-e-documentazione/leggi-atti/regionali/delibere/dgr-1092-2005) |
+| Friuli-Venezia Giulia | L.R. 9 gennaio 2018, n. 1 | Legge regionale | [Regione (Lexview) ↗](https://lexview-int.regione.fvg.it/fontinormative/xml/scarico.aspx?ANN=2018&LEX=0001&tip=1&lang=ita) |
+| Lazio | Regolamento Regionale 1 dicembre 2017, n. 29 | Regolamento | [Regione ↗](https://www.regione.lazio.it/regolamenti-regionali-testo-coordinato/regolamento-regionale-1-dicembre-2017-n-29-nota/14052021) |
+| Liguria | D.G.R. 23 luglio 2014, n. 902 | Delibera | [PDF ↗](https://www.assopiscine.it/wp-content/uploads/2020/11/DGR-LIGURIA.pdf) |
+| Lombardia | D.G.R. 17 maggio 2006, n. 8/2552 | Delibera *(con requisiti propri sugli AB)* | [PDF ↗](https://www.federnuoto.it/images/pdf/federazione/area_legislativa/lombardia_dgr_17_05_2006_8-2552.pdf) |
+| Marche | D.G.R. 23 luglio 2012, n. 1136 | Delibera | [scheda ↗](https://legislazionetecnica.it/737075/normativa-edilizia-appalti-professioni-tecniche-sicurezza-ambiente/deliberaz-gr-marche-23-07-2012-n-1136) |
+| Molise | L.R. 21 novembre 2008, n. 33 | Legge regionale | [Min. Salute ↗](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?completo=true&id=42762) |
+| Piemonte | D.G.R. 28 aprile 2003, n. 119-9199 (+ linee guida) | Delibera | [Regione ↗](https://www.regione.piemonte.it/web/temi/sanita/prevenzione/normativa-sorveglianza-acque-piscina) |
+| Puglia | L.R. 15 dicembre 2008, n. 35 *(preceduta da D.G.R. 22 giugno 2004, n. 909)* | Legge regionale | [Regione (PDF) ↗](https://trasparenza.regione.puglia.it/sites/default/files/provvedimento_amministrativo/44386_35_15-12-2008_L_35_15_12_2008.pdf) |
+| Sardegna | D.G.R. 5 febbraio 2019, n. 6/28 *(agg. D.G.R. 4 maggio 2023, n. 17/39)* | Delibera | [Regione ↗](https://delibere.regione.sardegna.it/it/visualizza_delibera.page?contentId=DBR45048) |
+| Sicilia | *Nessun atto regionale proprio*: si applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) | [Accordo 2003 ↗](https://www.gazzettaufficiale.it/eli/id/2003/03/03/03A02358/sg) |
+| Toscana | L.R. 9 marzo 2006, n. 8 *(+ Reg. D.P.G.R. 23/R/2010)* | Legge regionale | [Regione ↗](https://raccoltanormativa.consiglio.regione.toscana.it/articolo?urndoc=urn:nir:regione.toscana:legge:2006-03-09;8) |
+| Trentino-Alto Adige — P.A. Trento | Delibera 9 marzo 2007, n. 480 | Delibera | [PDF ↗](https://www.assopiscine.it/wp-content/uploads/2020/12/DP-TRENTO-2007.pdf) |
+| Trentino-Alto Adige — P.A. Bolzano | Delibera 28 giugno 2004, n. 2360 | Delibera | [Provincia (Lexbrowser) ↗](http://lexbrowser.provinz.bz.it) |
+| Umbria | L.R. 13 febbraio 2007, n. 4 *(oggi T.U. L.R. 9 aprile 2015, n. 11, Capo III)* + R.R. 1 aprile 2008, n. 2 | Legge regionale | [R.R. (PDF) ↗](https://www.assopiscine.it/wp-content/uploads/2020/12/RR-UMBRIA-2008.pdf) |
+| Valle d'Aosta | *Nessun atto regionale proprio*: l'Azienda USL applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) | [Accordo 2003 ↗](https://www.gazzettaufficiale.it/eli/id/2003/03/03/03A02358/sg) · [AUSL VdA ↗](https://www.ausl.vda.it/chi-siamo/dipartimento-della-prevenzione/igiene-e-sanita-pubblica/igiene-e-sanita-pubblica) |
 | Veneto | D.G.R. 18 aprile 2003, n. 1173 | Delibera |
 
 !!! warning "I riferimenti possono essere superati"
