@@ -35,11 +35,13 @@ Questo metodo vale **sempre**, ed è il modo più sicuro di arrivare al testo gi
 
 !!! note "Una precisazione importante"
     Contrariamente a quel che si potrebbe pensare, **quasi tutte le Regioni hanno un proprio atto
-    di recepimento** (spesso una **delibera di Giunta**, a volte una legge regionale). Non risultano
-    Regioni che applichino *soltanto* il testo nazionale senza alcun atto proprio. Alcuni recepimenti,
-    però, sono **poco reperibili online**: dove leggi *«da verificare»* non siamo ancora riusciti a
-    confermare gli estremi con certezza. Capire se un recepimento **aggiunge** regole oppure no
-    richiede leggere il singolo atto: la colonna **«Tipo»** qui sotto serve da prima indicazione.
+    di recepimento** (spesso una **delibera di Giunta**, a volte una legge regionale).
+    Fanno eccezione **Sicilia** e **Valle d'Aosta**, che non risultano aver adottato un proprio
+    provvedimento sulle piscine: lì si applica direttamente il quadro nazionale (Accordo 2003 +
+    Disciplina interregionale 2004). Per la Valle d'Aosta lo conferma la stessa **Azienda USL**, che
+    nella vigilanza igienico-sanitaria sulle piscine richiama soltanto l'Accordo Stato-Regioni 2003.
+    Capire se un recepimento **aggiunge** regole oppure no richiede leggere il singolo atto: la
+    colonna **«Tipo»** qui sotto serve da prima indicazione.
 
 **Come leggere la colonna «Tipo»:**
 
@@ -47,14 +49,17 @@ Questo metodo vale **sempre**, ed è il modo più sicuro di arrivare al testo gi
   aggiuntive o specifiche: **leggila**, può cambiare gli obblighi sugli AB.
 - **Delibera di recepimento** → in genere recepisce il quadro nazionale; **alcune** introducono
   però adattamenti propri (es. la Lombardia ha requisiti specifici sugli AB): **verifica**.
+- **— (solo normativa nazionale)** → la Regione non ha un proprio atto: vale direttamente il
+  quadro nazionale (Accordo 2003 + Disciplina interregionale 2004). È il caso di **Sicilia** e
+  **Valle d'Aosta**.
 - *da verificare* → atto non ancora confermato da noi.
 
 | Regione | Atto di recepimento | Tipo |
 |---|---|---|
-| Abruzzo | *da verificare* | *da verificare* |
-| Basilicata | *da verificare* | *da verificare* |
+| Abruzzo | D.G.R. 5 aprile 2004, n. 206 | Delibera |
+| Basilicata | L.R. 9 luglio 2020, n. 19 | Legge regionale |
 | Calabria | D.G.R. 12 dicembre 2007, n. 770 | Delibera |
-| Campania | *da verificare* | *da verificare* |
+| Campania | D.G.R. 20 luglio 2001, n. 3530 e D.G.R. 17 novembre 2004, n. 2088 | Delibera |
 | Emilia-Romagna | D.G.R. 18 luglio 2005, n. 1092 | Delibera |
 | Friuli-Venezia Giulia | L.R. 9 gennaio 2018, n. 1 | Legge regionale |
 | Lazio | Regolamento Regionale 1 dicembre 2017, n. 29 | Regolamento |
@@ -62,15 +67,15 @@ Questo metodo vale **sempre**, ed è il modo più sicuro di arrivare al testo gi
 | Lombardia | D.G.R. 17 maggio 2006, n. 8/2552 | Delibera *(con requisiti propri sugli AB)* |
 | Marche | D.G.R. 23 luglio 2012, n. 1136 | Delibera |
 | Molise | L.R. 21 novembre 2008, n. 33 | Legge regionale |
-| Piemonte | D.G.R. n. 119-9199 del 2003 (+ linee guida) | Delibera |
-| Puglia | L.R. 15 dicembre 2008, n. 3 | Legge regionale |
-| Sardegna | *da verificare* | *da verificare* |
-| Sicilia | *da verificare* | *da verificare* |
-| Toscana | L.R. 9 marzo 2006, n. 8 | Legge regionale |
+| Piemonte | D.G.R. 28 aprile 2003, n. 119-9199 (+ linee guida) | Delibera |
+| Puglia | L.R. 15 dicembre 2008, n. 35 *(preceduta da D.G.R. 22 giugno 2004, n. 909)* | Legge regionale |
+| Sardegna | D.G.R. 5 febbraio 2019, n. 6/28 *(agg. D.G.R. 4 maggio 2023, n. 17/39)* | Delibera |
+| Sicilia | *Nessun atto regionale proprio*: si applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) |
+| Toscana | L.R. 9 marzo 2006, n. 8 *(+ Reg. D.P.G.R. 23/R/2010)* | Legge regionale |
 | Trentino-Alto Adige — P.A. Trento | Delibera 9 marzo 2007, n. 480 | Delibera |
 | Trentino-Alto Adige — P.A. Bolzano | Delibera 28 giugno 2004, n. 2360 | Delibera |
-| Umbria | L.R. del 2007 *(estremi da verificare)* | Legge regionale |
-| Valle d'Aosta | *da verificare* (risulta un recepimento dell'intesa) | *da verificare* |
+| Umbria | L.R. 13 febbraio 2007, n. 4 *(oggi T.U. L.R. 9 aprile 2015, n. 11, Capo III)* + R.R. 1 aprile 2008, n. 2 | Legge regionale |
+| Valle d'Aosta | *Nessun atto regionale proprio*: l'Azienda USL applica direttamente l'Accordo 2003 + Disciplina interregionale 2004 | — (solo normativa nazionale) |
 | Veneto | D.G.R. 18 aprile 2003, n. 1173 | Delibera |
 
 !!! warning "I riferimenti possono essere superati"
