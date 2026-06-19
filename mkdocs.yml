@@ -93,35 +93,38 @@ extra:
 
 nav:
   - Home: index.md
-  - Guida pratica:
-      - guida-pratica/index.md
-      - Il bagnino è "garante": guida-pratica/il-bagnino-garante.md
-      - L'ordine del datore non protegge: guida-pratica/ordine-del-datore.md
-      - La sorveglianza dev'essere continua: guida-pratica/sorveglianza-continua.md
-      - Cosa rischi davvero: guida-pratica/cosa-rischi.md
-      - Come proteggerti (il paracadute): guida-pratica/come-proteggerti.md
-  - Quadro normativo:
-      - quadro-normativo/index.md
-      - Decreto 85/2024: quadro-normativo/decreto-85-2024.md
-      - D.M. 18 marzo 1996: quadro-normativo/dm-18-marzo-1996.md
-      - Accordo Stato-Regioni 2003: quadro-normativo/accordo-stato-regioni.md
-      - Codice penale (articoli chiave): quadro-normativo/codice-penale.md
-      - D.Lgs. 81/2008 (sicurezza sul lavoro): quadro-normativo/dlgs-81-2008.md
+  - Per gli Assistenti Bagnanti:
+      - per-ab/index.md
+      - Guida pratica:
+          - guida-pratica/index.md
+          - Il bagnino è "garante": guida-pratica/il-bagnino-garante.md
+          - L'ordine del datore non protegge: guida-pratica/ordine-del-datore.md
+          - La sorveglianza dev'essere continua: guida-pratica/sorveglianza-continua.md
+          - Cosa rischi davvero: guida-pratica/cosa-rischi.md
+          - Come proteggerti (il paracadute): guida-pratica/come-proteggerti.md
+      - Quadro normativo:
+          - quadro-normativo/index.md
+          - Decreto 85/2024: quadro-normativo/decreto-85-2024.md
+          - D.M. 18 marzo 1996: quadro-normativo/dm-18-marzo-1996.md
+          - Accordo Stato-Regioni 2003: quadro-normativo/accordo-stato-regioni.md
+          - Codice penale (articoli chiave): quadro-normativo/codice-penale.md
+          - D.Lgs. 81/2008 (sicurezza sul lavoro): quadro-normativo/dlgs-81-2008.md
+      - Giurisprudenza e casi:
+          - giurisprudenza/index.md
+          - Cassazione 24165/2013: giurisprudenza/cassazione-24165-2013.md
+          - Pietrasanta 2019 (Trib. Lucca 2024): giurisprudenza/pietrasanta-2019.md
+          - Marsciano 2024: giurisprudenza/marsciano-2024.md
+          - Manfredonia 2010 (Giudice di Pace): giurisprudenza/manfredonia-2010.md
+          - Udine 2017: giurisprudenza/udine-2017.md
+      - Modulistica:
+          - modulistica/index.md
+          - Registro di turno: modulistica/registro-di-turno.md
+          - Contestazione del mansionario: modulistica/contestazione-job-description.md
+          - Segnalazione criticità sicurezza: modulistica/segnalazione-criticita-sicurezza.md
+          - Lettera / PEC al datore: modulistica/lettera-pec-datore.md
+          - Richiesta documenti (DVR, ecc.): modulistica/richiesta-documenti.md
+  - Per le strutture: per-strutture/index.md
   - Regioni: regioni/index.md
-  - Giurisprudenza e casi:
-      - giurisprudenza/index.md
-      - Cassazione 24165/2013: giurisprudenza/cassazione-24165-2013.md
-      - Pietrasanta 2019 (Trib. Lucca 2024): giurisprudenza/pietrasanta-2019.md
-      - Marsciano 2024: giurisprudenza/marsciano-2024.md
-      - Manfredonia 2010 (Giudice di Pace): giurisprudenza/manfredonia-2010.md
-      - Udine 2017: giurisprudenza/udine-2017.md
-  - Modulistica:
-      - modulistica/index.md
-      - Registro di turno: modulistica/registro-di-turno.md
-      - Contestazione del mansionario: modulistica/contestazione-job-description.md
-      - Segnalazione criticità sicurezza: modulistica/segnalazione-criticita-sicurezza.md
-      - Lettera / PEC al datore: modulistica/lettera-pec-datore.md
-      - Richiesta documenti (DVR, ecc.): modulistica/richiesta-documenti.md
   - Risorse: risorse/index.md
   - Contribuisci: contribuisci.md
   - Disclaimer: disclaimer.md

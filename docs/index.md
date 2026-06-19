@@ -6,37 +6,26 @@ hide:
 
 # Assistenti Bagnanti
 
-**Informazione, leggi, sentenze e strumenti pratici per chi fa l'Assistente Bagnanti in Italia.**
+**Informazione, leggi, sentenze e strumenti pratici — per chi fa l'Assistente Bagnanti e per chi
+gestisce una struttura con una piscina.**
 
-Fare l'Assistente Bagnanti (AB) è una professione poco valorizzata. Nella stragrande maggioranza
-dei casi chi la svolge si ritrova a fare anche molte altre mansioni in contemporanea, perché ai
-datori di lavoro sembra uno spreco pagare una persona «solo» per sorvegliare una vasca.
+Questo sito serve a due persone diverse, che però guardano lo stesso problema da due lati. **Scegli
+da dove vieni:**
 
-Il problema è che, davanti alla legge, l'AB è **garante** della sicurezza dei bagnanti: se succede
-qualcosa, ne risponde **per primo** — anche quando stava eseguendo un ordine. Questo sito nasce
-per cambiare le cose su tre fronti.
+<div class="ab-choice-grid" markdown>
 
-<div class="ab-grid" markdown>
-
-<div class="ab-card" markdown>
-### :material-shield-account: Conoscere il ruolo
-Capire davvero quali responsabilità (penali, civili, sul brevetto) si assumono ogni giorno, e
-cosa può succedere quando le cose vanno male.
-[**→ Guida pratica**](guida-pratica/index.md)
+<div class="ab-card ab-choice" markdown>
+### :material-whistle: Sono un Assistente Bagnanti
+Voglio capire il mio **ruolo**, le **responsabilità** che mi assumo ogni giorno e **come tutelarmi**
+quando il datore di lavoro non le rispetta.
+[Entra nell'area AB →](per-ab/index.md){ .md-button .md-button--primary }
 </div>
 
-<div class="ab-card" markdown>
-### :material-scale-balance: Informarsi sulle fonti
-Le leggi, gli accordi e le sentenze che riguardano l'AB, raccolti e spiegati in modo semplice, con
-i documenti ufficiali scaricabili.
-[**→ Quadro normativo**](quadro-normativo/index.md) · [**→ Giurisprudenza**](giurisprudenza/index.md)
-</div>
-
-<div class="ab-card" markdown>
-### :material-file-document-edit: Tutelarsi
-Modelli pronti di lettere, segnalazioni e registri per costruirsi un «paracadute» quando il datore
-di lavoro non rispetta il ruolo dell'AB.
-[**→ Modulistica**](modulistica/index.md)
+<div class="ab-card ab-choice" markdown>
+### :material-pool: Ho una struttura con piscina
+Hotel, camping, agriturismo, B&B, palestra, struttura ricettiva: voglio sapere **chi è** l'AB, **se
+sono obbligato** ad averlo e **cosa rischio**.
+[Entra nell'area strutture →](per-strutture/index.md){ .md-button .md-button--primary }
 </div>
 
 </div>
@@ -48,14 +37,20 @@ di lavoro non rispetta il ruolo dell'AB.
     Lavoratori per la Sicurezza (RLS)** o agli **enti competenti** (ITL, ASL, Capitaneria).
     Leggi il [Disclaimer completo](disclaimer.md).
 
-## Da dove iniziare
+## Perché questo sito
 
-- **Sei un AB e vuoi capire a cosa vai incontro?** Parti da [Il bagnino è «garante»](guida-pratica/il-bagnino-garante.md)
-  e da [Cosa rischi davvero](guida-pratica/cosa-rischi.md).
-- **Il tuo datore ti chiede di lasciare la postazione?** Leggi [L'ordine del datore non protegge](guida-pratica/ordine-del-datore.md)
-  e prepara il tuo [paracadute](guida-pratica/come-proteggerti.md).
-- **Vuoi agire subito?** Inizia oggi a compilare il [Registro di turno](modulistica/registro-di-turno.md): è gratis,
-  veloce ed è lo strumento più importante che hai.
+Fare l'Assistente Bagnanti (AB) è una professione poco valorizzata. Nella stragrande maggioranza dei
+casi chi la svolge si ritrova a fare anche molte altre mansioni in contemporanea, perché ai datori di
+lavoro sembra uno spreco pagare una persona «solo» per sorvegliare una vasca.
+
+Il punto è che, davanti alla legge, l'AB è **garante** della sicurezza dei bagnanti: se succede
+qualcosa ne risponde **in prima persona** — e aver eseguito un ordine **non lo protegge**. Capirlo
+conviene a **entrambi**:
+
+- all'**AB**, perché è lui a metterci libertà, brevetto e futuro — non chi ha deciso di risparmiare
+  su di lui;
+- alla **struttura**, perché un'organizzazione del lavoro inadeguata non scarica tutto sul dipendente:
+  in caso di incidente **risponde anche il datore**, insieme all'AB.
 
 ## Per ora: le piscine
 
